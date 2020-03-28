@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/screenshot"
+        app:showAsAction="never"
+        android:title="Screenshot">
+    </item>
+    <item
+        android:id="@+id/showscreenshot"
+        app:showAsAction="never"
+        android:title="Show Screenshot">
+    </item>
+    <item
+        android:id="@+id/sharescreenshot"
+        app:showAsAction="never"
+        android:title="Share Screenshot">
+    </item>
+</menu>
